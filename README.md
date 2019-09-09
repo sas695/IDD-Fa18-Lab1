@@ -81,6 +81,8 @@ void loop() {
 
 [Image here](https://github.com/sas695/IDD-Fa18-Lab1/blob/master/Device%20Schematic.jpg)
 
+[Image here](https://github.com/sas695/IDD-Fa18-Lab1/blob/master/Internals.JPG)
+
 **a. Is there computation in your device? Where is it? What do you think is happening inside the "computer?"**
 
      Yes, there is a 8-bit microprocessor (CP6604BM) that computes mouse movement to cursor location      on the monitor.
