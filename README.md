@@ -4,7 +4,8 @@
 
 ## Part A. Set Up a Breadboard
 
-[insert a photo of your breadboard setup here]
+[Image here](https://github.com/sas695/IDD-Fa18-Lab1/blob/master/Breadboard.JPG)
+
 
 
 ## Part B. Manually Blink a LED
@@ -49,7 +50,7 @@ When delay() = 10.
 
 **Make a video of your LED blinking, and add it to your lab submission.**
 
-[link to your video here; feel free to upload to youtube and just paste in a link here]
+[Video here](https://github.com/sas695/IDD-Fa18-Lab1/blob/master/MyBlink.mov)
 
 
 ## Part D. Manually fade an LED
