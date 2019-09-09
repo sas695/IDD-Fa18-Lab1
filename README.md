@@ -58,6 +58,8 @@ We've copied the questions from the lab here. Answer them below!
 
 ### 1. Take apart your electronic device, and draw a schematic of what is inside. 
 
+[Image here](https://github.com/sas695/IDD-Fa18-Lab1/blob/master/IMG_2543.jpg)
+
 **a. Is there computation in your device? Where is it? What do you think is happening inside the "computer?"**
 
 **b. Are there sensors on your device? How do they work? How is the sensed information conveyed to other portions of the device?**
