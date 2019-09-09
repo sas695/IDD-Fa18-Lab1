@@ -96,3 +96,5 @@ I plugged in my USB powered Apple mouse and located the power and ground wires a
 ### 3. Build your light!
 
 [Image here](https://github.com/sas695/IDD-Fa18-Lab1/blob/master/IMG_2543.jpg)
+
+[Video here]()
