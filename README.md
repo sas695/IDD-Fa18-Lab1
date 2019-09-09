@@ -43,8 +43,15 @@
 
 When delay() = 10.
 
-**e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.**
+**e. Modify the code to make your LED blink your way.**
 
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(20);                       // wait for a second
+  digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
+  delay(1500);                       // wait for a second
+}
 
 ### 2. Blink your LED
 
@@ -65,6 +72,7 @@ When delay() = 10.
      I modified the code so that the LED is on pin 11 instead of pin 9.
      
 **b. What is analogWrite()? How is that different than digitalWrite()?**
+
      The analogWrite() function writes an analog value (PWM wave) to a pin. It can be used to light a      LED at varying brightnesses; whereas the digitalWrite() function can only be turned on (full 5V)      or of (0V). 
 
 ## Part F. FRANKENLIGHT!!!
@@ -97,4 +105,4 @@ I plugged in my USB powered Apple mouse and located the power and ground wires a
 
 [Image here](https://github.com/sas695/IDD-Fa18-Lab1/blob/master/IMG_2543.jpg)
 
-[Video here]()
+[Video here](https://github.com/sas695/IDD-Fa18-Lab1/blob/master/Frankenlight.MOV)
